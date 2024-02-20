@@ -51,7 +51,12 @@ h1{
 .back-cover {
 	width: 114%;
 	align-self: center;
-	margin: 0 0 50px;
+	margin: 0 0 25px;
+}
+
+.dates{
+	margin: 0 0 25px 0;
+	font-size: 15pt;
 }
 
 /* Google fonts */
