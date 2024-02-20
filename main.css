@@ -13,7 +13,7 @@ h1{
 .bio{
 	text-align: justify;
 	align-self: center;
-	margin: 25px 0;
+	margin: 25px 0 0 0;
 }
 
 .main-content {
@@ -29,12 +29,12 @@ h1{
 	width: 100%;
 }
 
-.presse{
+.presse_1{
 	width: 100%;
 }
 
-.presse:last-child{
-	margin-right: 0;
+.presse_3{
+	margin: 50px 0 0 0;
 }
 
 .photo-credit{
